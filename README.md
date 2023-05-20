@@ -1,6 +1,6 @@
 # Hello, I'm Calyxo!
 
-<div style="background: radial-gradient(rgba(255,255,255,1), rgba(255,255,255,1), rgba(255,255,255,0)">
+<div background="radial-gradient(rgba(255,255,255,1), rgba(255,255,255,1), rgba(255,255,255,0)">
 <img alt="ME" src="https://github.com/Calyx404/Calyx404/blob/Calyx404-pfp/Calyxo.png?raw=true" align="right"/>
 </div>
   
