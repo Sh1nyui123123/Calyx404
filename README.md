@@ -1,12 +1,12 @@
-Hello, I'm Calyx404!
+# Hello, I'm Calyxo!
 
-![ME]()
-# About Me
+![ME](https://github.com/Calyx404/Calyx404/blob/Calyx404-pfp/Calyxo.png?raw=true)
+## About Me
 
 I am a passionate beginner programmer with a strong desire to learn and grow in the world of software development. I am constantly exploring new technologies and coding languages to expand my knowledge and enhance my skills.
 
 
-# Skills
+## Skills
 
 - Programming Languages: Java, SQL
 
@@ -17,12 +17,12 @@ I am a passionate beginner programmer with a strong desire to learn and grow in 
 - Collaboration: Team Player, Effective Communication
 
 
-# Interests
+## Interests
 
 I am particularly interested in exploring backend development, data structures, and algorithms. I enjoy tackling challenging problems and finding efficient solutions. Additionally, I am enthusiastic about learning new frameworks and libraries to enhance my web development skills.
 
 
-# Goals
+## Goals
 
 - Expand my knowledge in software development by learning new programming languages and technologies.
 
@@ -31,7 +31,7 @@ I am particularly interested in exploring backend development, data structures, 
 - Contribute to open-source projects to collaborate with other developers and make a positive impact in the developer community.
 
 
-# Get in Touch
+## Get in Touch
 
 Discord: rei.allen#1549
 
