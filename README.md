@@ -1,12 +1,12 @@
 Hello, I'm Calyx404!
 
 
-// About Me
+\\ About Me
 
 I am a passionate beginner programmer with a strong desire to learn and grow in the world of software development. I am constantly exploring new technologies and coding languages to expand my knowledge and enhance my skills.
 
 
-// Skills
+\\ Skills
 
 > Programming Languages: Java, SQL
 
@@ -17,12 +17,12 @@ I am a passionate beginner programmer with a strong desire to learn and grow in 
 > Collaboration: Team Player, Effective Communication
 
 
-// Interests
+\\ Interests
 
 I am particularly interested in exploring backend development, data structures, and algorithms. I enjoy tackling challenging problems and finding efficient solutions. Additionally, I am enthusiastic about learning new frameworks and libraries to enhance my web development skills.
 
 
-// Goals
+\\ Goals
 
 > Expand my knowledge in software development by learning new programming languages and technologies.
 
@@ -32,11 +32,11 @@ I am particularly interested in exploring backend development, data structures, 
 
 
 
-// Get in Touch
+\\ Get in Touch
 
 Discord: rei.allen#1549
 
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! I'm always excited to meet fellow developers and learn from their experiences.\
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! I'm always excited to meet fellow developers and learn from their experiences.
 
 Let's code and create amazing things together!
