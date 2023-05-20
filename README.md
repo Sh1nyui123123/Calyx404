@@ -14,9 +14,9 @@ Interests
 I am particularly interested in exploring backend development, data structures, and algorithms. I enjoy tackling challenging problems and finding efficient solutions. Additionally, I am enthusiastic about learning new frameworks and libraries to enhance my web development skills.
 
 Goals
-> Expand my knowledge in software development by learning new programming languages and technologies.
-> Build real-world projects to gain practical experience and strengthen my problem-solving abilities.
-> Contribute to open-source projects to collaborate with other developers and make a positive impact in the developer community.
+  Expand my knowledge in software development by learning new programming languages and technologies.
+  Build real-world projects to gain practical experience and strengthen my problem-solving abilities.
+  Contribute to open-source projects to collaborate with other developers and make a positive impact in the developer community.
 
 Get in Touch
 Discord: rei.allen#1549
