@@ -1,6 +1,7 @@
 # Hello, I'm Calyxo!
 
-![ME]()
+<img alt="ME" src="https://github.com/Calyx404/Calyx404/blob/Calyx404-pfp/Calyxo.png?raw=true" align="right"/>
+
 ## About Me
 
 I am a passionate beginner programmer with a strong desire to learn and grow in the world of software development. I am constantly exploring new technologies and coding languages to expand my knowledge and enhance my skills.
