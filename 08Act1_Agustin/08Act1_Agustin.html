@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>08 Act 1 | Agustin</title>
+
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="stylesheet" href="/css/style.css" type="text/css">
+        <link rel="stylesheet" href="/css/loader.css" type="text/css">
+    </head>
+    
+    <body>
+        <div class="container">
+            <div class="loading">
+                <span class="shape shape-1"></span>
+                <span class="shape shape-2"></span>
+                <span class="shape shape-3"></span>
+                <span class="shape shape-4"></span>
+            </div>
+            <p>Initializing...</p>
+        </div>
+        <section class="login-popup">
+            <div class="wrapper">
+                <span onclick="goBack()" class="icon-close">
+                    <i class='bx bx-x'></i>
+                </span>
+                <div class="form-box login">
+                    <h2>Log in</h2>
+                    <form action="#" method="get" onsubmit="auth()">
+                        <div class="input-box">
+                            <span class="icon"><i class='bx bxs-envelope' ></i></span>
+                            <input type="text" id="email" onblur="capitalEmail()" required>
+                            <label for="Email">Email</label>
+                        </div>
+
+                        <div class="input-box">
+                            <span class="icon" id="toggle" onclick="showHide()">
+                                <i class='bx bxs-hide'></i>
+                            </span>
+                            <input type="password" id="password" required>
+                            <label for="Password">Password</label>
+                        </div>
+
+                        <div class="remember-forgot">
+                            <label><input type="checkbox"> Remember me</label>
+                            <a href="#">Forgot Password?</a>
+                        </div>
+                        <button type="submit" class="btn" onmouseover="style.background='var(--light-1)', style.color='var(--dark-2)'" onmouseout="style.background='var(--dark-2)', style.color='var(--light-1)'">Log In</button>
+                        <div class="login-register">
+                            <p>Don't have an account?
+                                <a href="#" class="register-link">Sign Up</a>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="form-box register">
+                    <h2>Sign Up</h2>
+                    <form action="#" onsubmit="auth()">
+                        <div class="input-box">
+                            <span class="icon"><i class='bx bxs-user'></i></span>
+                            <input type="text" id="username" required>
+                            <label for="Username">Username</label>
+                        </div>
+
+                        <div class="input-box">
+                            <span class="icon"><i class='bx bxs-envelope' ></i></span>
+                            <input type="text" id="email" onblur="capitalEmail()" required>
+                            <label for="Email">Email</label>
+                        </div>
+
+                        <div class="input-box">
+                            <span class="icon"><i class='bx bx-key' ></i></span>
+                            <input type="password" required id="password">
+                            <label for="Password">Create Password</label>
+                        </div>
+
+                        <div class="input-box">
+                            <span class="icon"><i class='bx bxs-lock' ></i></span>
+                            <input type="password" required id="password">
+                            <label for="Confirm Password">Confirm Password</label>
+                        </div>
+
+                        <div class="remember-forgot">
+                            <label><input type="checkbox" required> I agree to the Terms & Conditions</label>
+                        </div>
+                        <button type="submit" class="btn" onmouseover="style.background='var(--light-1)', style.color='var(--dark-2)'" onmouseout="style.background='var(--dark-2)', style.color='var(--light-1)'">Sign Up</button>
+                        <div class="login-register">
+                            <p>Already have an account?
+                                <a href="#" class="login-link">Log In</a>
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!-- Scroll Reveal -->
+        <script src="https://unpkg.com/scrollreveal"></script>
+
+        <!-- Custom JS -->
+        <script src="script.js"></script>
+    </body>
+</html>
